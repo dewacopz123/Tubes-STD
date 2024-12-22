@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1734878218 source:c:\tugas strukdat\tubesstd\main.cpp
+	<iostream>
+	"pengiriman.h"
+
+1734878402 c:\tugas strukdat\tubesstd\pengiriman.h
+	<string>
+	<list>
+	<unordered_map>
+	<unordered_set>
+	<climits>
+
+1734878509 source:c:\tugas strukdat\tubesstd\pengiriman.cpp
+	"pengiriman.h"
+	<iostream>
+	<unordered_map>
+	<unordered_set>
+	<list>
+	<climits>
+
